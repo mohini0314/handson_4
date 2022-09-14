@@ -1,0 +1,44 @@
+.webhead{
+    color: rgb(194, 47, 47);
+    font-weight:bolder;
+    font-style: bold;
+    font-size:60px;
+    }
+    .intro{
+        color: rgb(225, 72, 25);
+        font-size: 32px;
+        font-weight:bolder;
+        font-style:italic;
+    }
+    .order{
+        color: brown;
+        font-weight: bold;
+        font-size: 22px;
+    }
+    .line{
+     text-decoration: line-through;
+    }
+    .unorder{
+        color: brown;
+        font-size: 20px;
+        letter-spacing:5px;
+        font-weight:bold;
+    }
+    .para{
+        color: brown;
+        font-size: 20px;
+
+    }
+
+    .link{
+        color: brown;
+        font-size: 20px;
+        font-style: italic;
+        font-weight: 400;
+        background-color: yellow;
+    }
+   
+    
+
+
+    
